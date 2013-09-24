@@ -1,7 +1,7 @@
 login_rest
 ==========
 
-Servicio Restful mediante al que se pueden realizar diferentes tipos de peticiones HTTP para interactuar con usuarios.
+Servicio Restful al que se pueden realizar diferentes tipos de peticiones HTTP para interactuar con usuarios.
 
 - GET: http://localhost/login_restful/usuarios para obtener información de los usuarios registrados en el sistema
 - POST: http://localhost/login_restful/login (+ datos) para recibir información de si existe o el usuario.
