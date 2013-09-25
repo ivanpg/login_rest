@@ -13,8 +13,8 @@ Servicio Restful al que se pueden realizar diferentes tipos de peticiones HTTP p
 
 Características:
 
-- 'user-friendly' URL's para hacer las peticiones
-- Reescritura de URL mediante .htaccess
+- 'user-friendly' URL's para hacer las peticiones.
+- Reescritura de URL mediante .htaccess.
 - Consulta a la Base de datos mediante la extensión PDO.
 - Las respuestas serán un conjunto de datos JSON. Incluyendo el estado de la respuesta.
 - index.php muestra ejemplos de las peticiones utilizando libCurl de PHP.
